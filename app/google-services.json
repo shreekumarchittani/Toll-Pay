@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938219789884",
+    "firebase_url": "https://backend-ef945.firebaseio.com",
+    "project_id": "backend-ef945",
+    "storage_bucket": "backend-ef945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938219789884:android:de86d7a789bd6cde1eed39",
+        "android_client_info": {
+          "package_name": "com.mind.loginregisterapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938219789884-fp9c8qlok3i7vro5t5v2ln88rm5n5kc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QCL08W2VL8kehC_B5HKZoLmB5_ZpgYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938219789884-fp9c8qlok3i7vro5t5v2ln88rm5n5kc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
